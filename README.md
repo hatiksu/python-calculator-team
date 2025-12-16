@@ -1,2 +1,18 @@
-# python-calculator-team
-Simple calculator for collaborative development
+# Python Calculator - Team Project
+
+Простой калькулятор для демонстрации коллективной разработки.
+
+## Функции
+- Сложение
+- Вычитание
+- Умножение
+- Деление
+
+## Участники команды
+1. Алексей - лидер команды
+2. Мария
+3. Дмитрий
+
+## Как запустить
+```bash
+python main.py
